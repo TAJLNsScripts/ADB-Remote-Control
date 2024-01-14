@@ -5,4 +5,10 @@ A basic GUI to control your tv.
 ![image](https://github.com/TAJLNsScripts/ADB-Remote-Control/assets/138971402/d4133d80-5df7-4043-99a1-1a157a7f159e)
 
 
+## Installation
+
+```shell
+pip install -r requirements.txt
+```
+
 I used it for controling Android TV apps that are running on your Android mobile device and don't accept touch input.
